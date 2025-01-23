@@ -6,6 +6,5 @@ seaborn
 collections
 wordcloud
 nltk
-nltk.download('stopwords')
 scikit-learn
 lyricsgenius
