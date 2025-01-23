@@ -5,6 +5,7 @@ matplotlib
 seaborn
 collections
 wordcloud
-import nltk
+nltk
+nltk.download('stopwords')
 scikit-learn
 lyricsgenius
