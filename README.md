@@ -7,8 +7,7 @@ Du hast einen Song geschrieben und bist unsicher, ob er wirklich ein Hit wird? D
 Gib deinen Song hier ein und lass dir zeigen, welchen Top-Hits er am meisten ähnelt.
 
 ### Sprache:
-App: Deutsch
-Lyrics: Englisch
+App: Deutsch, Lyrics: Englisch
 
 ### Installation:
 
@@ -42,5 +41,5 @@ Schau dir die Datensätze an, die verwendet wurden.
 Wer sind die Top-Artists? Aus welchen Jahren stammen die erfolgreichsten Songs? Welches Tempo wird am häufigstens verwendet?
 #### Korrelationen und Kausalitäten:
 Lass dir bestimmte Variablen plotten und finde heraus, welche Zusammenhänge es gibt.
-#### Track- und Artist-Database:**
+#### Track- und Artist-Database:
 Hier kannst du nach bestimmten Künstlern und ihren Songs suchen und dir alle wichtigen Informationen anzeigen lassen.
